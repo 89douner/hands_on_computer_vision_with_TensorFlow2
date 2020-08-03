@@ -7,7 +7,7 @@ Later, I'm going to add pytorch version.
 
 * Chapter 1. (skip) 
 * Chapter 2. TensorFlow Basic and Training a Model
-    * 2-1-2.Perceptron with python.numpy
-    * 2-1-3.Perceptron with TensorFlow2
+    * 2-1-1.Perceptron with python.numpy
+    * 2-1-2.Perceptron with TensorFlow2
     
 * Chapter 3. Modern Neural Networks
